@@ -1,2 +1,1 @@
-## Laravel Project
-idk it's half done but it was my first time using a framework although there are better frameworks out there this was a great experience. Web dev is now cool because I have realised what frameworks are.
+
